@@ -1,0 +1,1 @@
+The Online Food Order System is a web-based application that allows users to browse food items, place orders, and manage their food purchases through an online platform. This system simplifies the food ordering process by providing an easy-to-use interface for customers and efficient order management for administrators.
